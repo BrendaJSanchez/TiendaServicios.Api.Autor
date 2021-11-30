@@ -56,6 +56,8 @@ namespace TiendaServicios.Api.Libro.Test
         {
             //System.Diagnostics.Debugger.Launch();
 
+            // este test es para unit test
+
             var mockContexto = CrearContexto();
             var mapConfig = new MapperConfiguration(cfg =>
             {
