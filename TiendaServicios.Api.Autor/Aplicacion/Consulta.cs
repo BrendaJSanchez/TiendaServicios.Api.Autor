@@ -11,6 +11,7 @@ using TiendaServicios.Api.Autor.Persistencia;
 
 namespace TiendaServicios.Api.Autor.Aplicacion
 {
+    //consulta
     public class Consulta
     {
 
