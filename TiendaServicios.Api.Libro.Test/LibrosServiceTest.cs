@@ -117,7 +117,7 @@ namespace TiendaServicios.Api.Libro.Test
 
         public async void GuardarLibro() {
             //este Test es para unit Text
-           // System.Diagnostics.Debugger.Launch();
+        
 
             var options = new DbContextOptionsBuilder<ContextoLibreria>()
                 .UseInMemoryDatabase(databaseName: "BaseDatosLibro")
